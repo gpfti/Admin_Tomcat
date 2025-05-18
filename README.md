@@ -13,5 +13,7 @@
   
 [Referencias](./10/10-Referencias.md)
 
+**Disclaimer:**
+Los logotipos, marcas registradas y cualquier otro material gráfico relacionado con *Apache Tomcat* incluidos en esta documentación son propiedad de la *Apache Software Foundation*. Se presentan únicamente con fines ilustrativos y educativos, sin intención de infringir derechos de propiedad intelectual ni de implicar asociación o respaldo por parte de la *Apache Software Foundation*. Todos los derechos sobre dichos elementos pertenecen a sus respectivos titulares.
 
 
